@@ -1,0 +1,30 @@
+L 03/25/2015 - 19:58:58: Log file started (file "logs/L0325019.log") (game "czero") (version "48/1.0.0.3/Stdio/6153")
+L 03/25/2015 - 19:58:59: "AllahAkbar<12><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 19:59:01: "SexualHarrasmentPanda<16><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 19:59:01: "MagicalWizard<14><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 19:59:02: "denes<13><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 19:59:02: "Markyew<18><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 19:59:03: "Player<15><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 19:59:05: World triggered "Round_Start"
+L 03/25/2015 - 19:59:07: "Markyew<18><STEAM_ID_LAN><>" joined team "TERRORIST"
+L 03/25/2015 - 19:59:09: "Markyew<18><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 19:59:10: "denes<13><STEAM_ID_LAN><>" joined team "CT"
+L 03/25/2015 - 19:59:10: World triggered "Game_Commencing"
+L 03/25/2015 - 19:59:10: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/25/2015 - 19:59:10: World triggered "Round_End"
+L 03/25/2015 - 19:59:11: "AllahAkbar<12><STEAM_ID_LAN><>" joined team "SPECTATOR"
+L 03/25/2015 - 19:59:13: "Markyew<18><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 19:59:14: "MagicalWizard<14><STEAM_ID_LAN><>" joined team "CT"
+L 03/25/2015 - 19:59:19: World triggered "Round_Start"
+L 03/25/2015 - 19:59:22: "SexualHarrasmentPanda<16><STEAM_ID_LAN><>" joined team "TERRORIST"
+L 03/25/2015 - 19:59:38: "Markyew<18><STEAM_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/25/2015 - 20:00:15: "AllahAkbar<-1><><SPECTATOR>" disconnected
+L 03/25/2015 - 20:00:15: "denes<-1><><CT>" disconnected
+L 03/25/2015 - 20:00:15: "MagicalWizard<-1><><CT>" disconnected
+L 03/25/2015 - 20:00:15: "Player<-1><><>" disconnected
+L 03/25/2015 - 20:00:15: "SexualHarrasmentPanda<-1><><TERRORIST>" disconnected
+L 03/25/2015 - 20:00:15: "Markyew<-1><><TERRORIST>" disconnected
+L 03/25/2015 - 20:00:15: World triggered "Round_Draw" (CT "0") (T "0")
+L 03/25/2015 - 20:00:15: World triggered "Round_End"
+L 03/25/2015 - 20:00:15: Server shutdown
+L 03/25/2015 - 20:00:15: Log file closed

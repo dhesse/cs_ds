@@ -1,0 +1,98 @@
+L 03/25/2015 - 18:12:54: Log file started (file "logs/L0325007.log") (game "czero") (version "48/1.0.0.3/Stdio/6153")
+L 03/25/2015 - 18:12:55: "AllahAkbar<1><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 18:12:57: "Fukkaroo<5><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 18:12:57: "denes<4><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 18:12:58: "MagicalWizard<2><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 18:13:01: World triggered "Round_Start"
+L 03/25/2015 - 18:13:02: "AllahAkbar<1><STEAM_ID_LAN><>" joined team "CT"
+L 03/25/2015 - 18:13:09: "denes<4><STEAM_ID_LAN><>" joined team "TERRORIST"
+L 03/25/2015 - 18:13:10: World triggered "Game_Commencing"
+L 03/25/2015 - 18:13:10: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/25/2015 - 18:13:10: World triggered "Round_End"
+L 03/25/2015 - 18:13:13: "Fukkaroo<5><STEAM_ID_LAN><>" joined team "CT"
+L 03/25/2015 - 18:13:20: World triggered "Round_Start"
+L 03/25/2015 - 18:13:32: "MagicalWizard<2><STEAM_ID_LAN><>" joined team "TERRORIST"
+L 03/25/2015 - 18:14:22: "Player<8><STEAM_ID_LAN><>" connected, address "192.168.1.22:27005"
+L 03/25/2015 - 18:14:27: "Player<8><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 18:14:31: "Player<8><STEAM_ID_LAN><>" joined team "TERRORIST"
+L 03/25/2015 - 18:14:41: "Fukkaroo<5><STEAM_ID_LAN><CT>" triggered "Touched_A_Hostage"
+L 03/25/2015 - 18:14:42: "Fukkaroo<5><STEAM_ID_LAN><CT>" triggered "Touched_A_Hostage"
+L 03/25/2015 - 18:14:51: "AllahAkbar<1><STEAM_ID_LAN><CT>" triggered "Touched_A_Hostage"
+L 03/25/2015 - 18:14:51: "Fukkaroo<5><STEAM_ID_LAN><CT>" triggered "Touched_A_Hostage"
+L 03/25/2015 - 18:15:35: "MagicalWizard<2><STEAM_ID_LAN><TERRORIST>" killed "Fukkaroo<5><STEAM_ID_LAN><CT>" with "glock18"
+L 03/25/2015 - 18:15:48: "AllahAkbar<1><STEAM_ID_LAN><CT>" killed "MagicalWizard<2><STEAM_ID_LAN><TERRORIST>" with "usp"
+L 03/25/2015 - 18:15:49: "denes<4><STEAM_ID_LAN><TERRORIST>" killed "AllahAkbar<1><STEAM_ID_LAN><CT>" with "deagle"
+L 03/25/2015 - 18:15:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 03/25/2015 - 18:15:49: World triggered "Round_End"
+L 03/25/2015 - 18:16:00: World triggered "Round_Start"
+L 03/25/2015 - 18:16:22: "denes<4><STEAM_ID_LAN><TERRORIST>" triggered "Killed_A_Hostage"
+L 03/25/2015 - 18:16:28: "Player<8><STEAM_ID_LAN><TERRORIST>" disconnected
+L 03/25/2015 - 18:16:33: "MagicalWizard<2><STEAM_ID_LAN><TERRORIST>" triggered "Killed_A_Hostage"
+L 03/25/2015 - 18:16:44: "Player<9><STEAM_ID_LAN><>" connected, address "192.168.1.22:27005"
+L 03/25/2015 - 18:16:47: "Player<9><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 18:16:52: "Player<9><STEAM_ID_LAN><>" joined team "CT"
+L 03/25/2015 - 18:16:53: "AllahAkbar<1><STEAM_ID_LAN><CT>" killed "denes<4><STEAM_ID_LAN><TERRORIST>" with "deagle"
+L 03/25/2015 - 18:17:02: "MagicalWizard<2><STEAM_ID_LAN><TERRORIST>" killed "AllahAkbar<1><STEAM_ID_LAN><CT>" with "ak47"
+L 03/25/2015 - 18:18:05: "MagicalWizard<2><STEAM_ID_LAN><TERRORIST>" killed "Fukkaroo<5><STEAM_ID_LAN><CT>" with "ak47"
+L 03/25/2015 - 18:18:05: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 03/25/2015 - 18:18:05: World triggered "Round_End"
+L 03/25/2015 - 18:18:16: World triggered "Round_Start"
+L 03/25/2015 - 18:18:41: "denes<4><STEAM_ID_LAN><TERRORIST>" triggered "Killed_A_Hostage"
+L 03/25/2015 - 18:18:46: "denes<4><STEAM_ID_LAN><TERRORIST>" triggered "Killed_A_Hostage"
+L 03/25/2015 - 18:19:46: "Player<9><STEAM_ID_LAN><CT>" disconnected
+L 03/25/2015 - 18:20:11: "denes<4><STEAM_ID_LAN><TERRORIST>" killed "AllahAkbar<1><STEAM_ID_LAN><CT>" with "mp5navy"
+L 03/25/2015 - 18:20:14: "Fukkaroo<5><STEAM_ID_LAN><CT>" killed "denes<4><STEAM_ID_LAN><TERRORIST>" with "deagle"
+L 03/25/2015 - 18:20:26: "Fukkaroo<5><STEAM_ID_LAN><CT>" killed "MagicalWizard<2><STEAM_ID_LAN><TERRORIST>" with "deagle"
+L 03/25/2015 - 18:20:26: Team "CT" triggered "CTs_Win" (CT "1") (T "2")
+L 03/25/2015 - 18:20:26: World triggered "Round_End"
+L 03/25/2015 - 18:20:37: World triggered "Round_Start"
+L 03/25/2015 - 18:21:04: "denes<4><STEAM_ID_LAN><TERRORIST>" triggered "Killed_A_Hostage"
+L 03/25/2015 - 18:21:10: "denes<4><STEAM_ID_LAN><TERRORIST>" triggered "Killed_A_Hostage"
+L 03/25/2015 - 18:21:10: "denes<4><STEAM_ID_LAN><TERRORIST>" disconnected
+L 03/25/2015 - 18:21:27: "denes<10><STEAM_ID_LAN><>" connected, address "192.168.1.131:27005"
+L 03/25/2015 - 18:21:28: "AllahAkbar<1><STEAM_ID_LAN><CT>" killed "MagicalWizard<2><STEAM_ID_LAN><TERRORIST>" with "ump45"
+L 03/25/2015 - 18:21:28: Team "CT" triggered "CTs_Win" (CT "2") (T "2")
+L 03/25/2015 - 18:21:28: World triggered "Round_End"
+L 03/25/2015 - 18:21:29: "denes<10><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 18:21:38: "denes<10><STEAM_ID_LAN><>" joined team "TERRORIST"
+L 03/25/2015 - 18:21:40: World triggered "Round_Start"
+L 03/25/2015 - 18:22:24: "Fukkaroo<5><STEAM_ID_LAN><CT>" killed "MagicalWizard<2><STEAM_ID_LAN><TERRORIST>" with "deagle"
+L 03/25/2015 - 18:23:05: "Fukkaroo<5><STEAM_ID_LAN><CT>" triggered "Touched_A_Hostage"
+L 03/25/2015 - 18:23:07: "Fukkaroo<5><STEAM_ID_LAN><CT>" triggered "Touched_A_Hostage"
+L 03/25/2015 - 18:23:09: "Fukkaroo<5><STEAM_ID_LAN><CT>" triggered "Touched_A_Hostage"
+L 03/25/2015 - 18:23:11: "Fukkaroo<5><STEAM_ID_LAN><CT>" triggered "Touched_A_Hostage"
+L 03/25/2015 - 18:23:22: "Fukkaroo<5><STEAM_ID_LAN><CT>" killed "denes<10><STEAM_ID_LAN><TERRORIST>" with "mp5navy"
+L 03/25/2015 - 18:23:22: Team "CT" triggered "CTs_Win" (CT "3") (T "2")
+L 03/25/2015 - 18:23:22: World triggered "Round_End"
+L 03/25/2015 - 18:23:33: World triggered "Round_Start"
+L 03/25/2015 - 18:23:52: "Player<11><STEAM_ID_LAN><>" connected, address "192.168.1.22:27005"
+L 03/25/2015 - 18:23:58: "MagicalWizard<2><STEAM_ID_LAN><TERRORIST>" killed "Fukkaroo<5><STEAM_ID_LAN><CT>" with "ak47"
+L 03/25/2015 - 18:24:03: "Player<11><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 18:24:07: "AllahAkbar<1><STEAM_ID_LAN><CT>" killed "denes<10><STEAM_ID_LAN><TERRORIST>" with "ak47"
+L 03/25/2015 - 18:24:08: "Player<11><STEAM_ID_LAN><>" joined team "TERRORIST"
+L 03/25/2015 - 18:24:19: "AllahAkbar<1><STEAM_ID_LAN><CT>" triggered "Touched_A_Hostage"
+L 03/25/2015 - 18:24:30: "AllahAkbar<1><STEAM_ID_LAN><CT>" triggered "Touched_A_Hostage"
+L 03/25/2015 - 18:24:33: "AllahAkbar<1><STEAM_ID_LAN><CT>" triggered "Touched_A_Hostage"
+L 03/25/2015 - 18:28:16: "MagicalWizard<2><STEAM_ID_LAN><TERRORIST>" killed "AllahAkbar<1><STEAM_ID_LAN><CT>" with "ak47"
+L 03/25/2015 - 18:28:16: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "3")
+L 03/25/2015 - 18:28:16: World triggered "Round_End"
+L 03/25/2015 - 18:28:27: World triggered "Round_Start"
+L 03/25/2015 - 18:29:35: "AllahAkbar<1><STEAM_ID_LAN><CT>" killed "MagicalWizard<2><STEAM_ID_LAN><TERRORIST>" with "m4a1"
+L 03/25/2015 - 18:30:04: "denes<10><STEAM_ID_LAN><TERRORIST>" killed "Fukkaroo<5><STEAM_ID_LAN><CT>" with "ak47"
+L 03/25/2015 - 18:30:15: "AllahAkbar<1><STEAM_ID_LAN><CT>" killed "Player<11><STEAM_ID_LAN><TERRORIST>" with "m4a1"
+L 03/25/2015 - 18:30:16: "denes<10><STEAM_ID_LAN><TERRORIST>" killed "AllahAkbar<1><STEAM_ID_LAN><CT>" with "ak47"
+L 03/25/2015 - 18:30:16: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "4")
+L 03/25/2015 - 18:30:16: World triggered "Round_End"
+L 03/25/2015 - 18:30:27: World triggered "Round_Start"
+L 03/25/2015 - 18:30:58: "Fukkaroo<5><STEAM_ID_LAN><CT>" killed "denes<10><STEAM_ID_LAN><TERRORIST>" with "m4a1"
+L 03/25/2015 - 18:31:02: "MagicalWizard<2><STEAM_ID_LAN><TERRORIST>" killed "AllahAkbar<1><STEAM_ID_LAN><CT>" with "ak47"
+L 03/25/2015 - 18:31:07: "Fukkaroo<5><STEAM_ID_LAN><CT>" killed "MagicalWizard<2><STEAM_ID_LAN><TERRORIST>" with "m4a1"
+L 03/25/2015 - 18:31:34: "Player<11><STEAM_ID_LAN><TERRORIST>" killed "Fukkaroo<5><STEAM_ID_LAN><CT>" with "ak47"
+L 03/25/2015 - 18:31:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "5")
+L 03/25/2015 - 18:31:34: World triggered "Round_End"
+L 03/25/2015 - 18:31:45: World triggered "Round_Start"
+L 03/25/2015 - 18:32:34: "Fukkaroo<5><STEAM_ID_LAN><CT>" killed "MagicalWizard<2><STEAM_ID_LAN><TERRORIST>" with "m4a1"
+L 03/25/2015 - 18:32:55: "Player<11><STEAM_ID_LAN><TERRORIST>" killed "Fukkaroo<5><STEAM_ID_LAN><CT>" with "ak47"
+L 03/25/2015 - 18:33:14: Team "CT" scored "3" with "2" players
+L 03/25/2015 - 18:33:14: Team "TERRORIST" scored "5" with "3" players
+L 03/25/2015 - 18:33:24: Log file closed

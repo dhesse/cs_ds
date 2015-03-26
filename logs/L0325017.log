@@ -1,0 +1,115 @@
+L 03/25/2015 - 19:38:16: Log file started (file "logs/L0325017.log") (game "czero") (version "48/1.0.0.3/Stdio/6153")
+L 03/25/2015 - 19:38:17: "AllahAkbar<12><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 19:38:20: "SexualHarrasmentPanda<16><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 19:38:20: "denes<13><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 19:38:20: "MagicalWizard<14><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 19:38:21: "Markyew<18><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 19:38:21: "Player<15><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 19:38:24: World triggered "Round_Start"
+L 03/25/2015 - 19:38:32: "denes<13><STEAM_ID_LAN><>" joined team "TERRORIST"
+L 03/25/2015 - 19:38:32: "MagicalWizard<14><STEAM_ID_LAN><>" joined team "TERRORIST"
+L 03/25/2015 - 19:38:33: "denes<13><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 19:38:33: "SexualHarrasmentPanda<16><STEAM_ID_LAN><>" joined team "TERRORIST"
+L 03/25/2015 - 19:38:35: "AllahAkbar<12><STEAM_ID_LAN><>" joined team "CT"
+L 03/25/2015 - 19:38:43: "Markyew<18><STEAM_ID_LAN><>" joined team "CT"
+L 03/25/2015 - 19:38:44: World triggered "Game_Commencing"
+L 03/25/2015 - 19:38:44: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/25/2015 - 19:38:44: World triggered "Round_End"
+L 03/25/2015 - 19:38:47: "MagicalWizard<14><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 19:38:52: "Player<15><STEAM_ID_LAN><>" joined team "CT"
+L 03/25/2015 - 19:38:53: World triggered "Round_Start"
+L 03/25/2015 - 19:39:58: "Markyew<18><STEAM_ID_LAN><CT>" killed "SexualHarrasmentPanda<16><STEAM_ID_LAN><TERRORIST>" with "usp"
+L 03/25/2015 - 19:40:58: "MagicalWizard<14><STEAM_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/25/2015 - 19:41:43: Team "TERRORIST" triggered "Target_Bombed" (CT "0") (T "1")
+L 03/25/2015 - 19:41:43: World triggered "Round_End"
+L 03/25/2015 - 19:41:48: "SexualHarrasmentPanda<16><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 19:41:54: World triggered "Round_Start"
+L 03/25/2015 - 19:43:28: "MagicalWizard<14><STEAM_ID_LAN><TERRORIST>" killed "Markyew<18><STEAM_ID_LAN><CT>" with "ak47"
+L 03/25/2015 - 19:43:33: "MagicalWizard<14><STEAM_ID_LAN><TERRORIST>" killed "Player<15><STEAM_ID_LAN><CT>" with "ak47"
+L 03/25/2015 - 19:43:38: "SexualHarrasmentPanda<16><STEAM_ID_LAN><TERRORIST>" killed "AllahAkbar<12><STEAM_ID_LAN><CT>" with "ak47"
+L 03/25/2015 - 19:43:38: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 03/25/2015 - 19:43:38: World triggered "Round_End"
+L 03/25/2015 - 19:43:43: "denes<13><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 19:43:49: World triggered "Round_Start"
+L 03/25/2015 - 19:44:19: "denes<13><STEAM_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/25/2015 - 19:44:44: "Markyew<18><STEAM_ID_LAN><CT>" killed "SexualHarrasmentPanda<16><STEAM_ID_LAN><TERRORIST>" with "m4a1"
+L 03/25/2015 - 19:45:00: "Markyew<18><STEAM_ID_LAN><CT>" killed "MagicalWizard<14><STEAM_ID_LAN><TERRORIST>" with "m4a1"
+L 03/25/2015 - 19:45:04: Team "TERRORIST" triggered "Target_Bombed" (CT "0") (T "3")
+L 03/25/2015 - 19:45:04: World triggered "Round_End"
+L 03/25/2015 - 19:45:09: "MagicalWizard<14><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 19:45:15: World triggered "Round_Start"
+L 03/25/2015 - 19:46:01: "denes<13><STEAM_ID_LAN><TERRORIST>" killed "AllahAkbar<12><STEAM_ID_LAN><CT>" with "awp"
+L 03/25/2015 - 19:46:11: "denes<13><STEAM_ID_LAN><TERRORIST>" killed "Player<15><STEAM_ID_LAN><CT>" with "grenade"
+L 03/25/2015 - 19:46:11: "denes<13><STEAM_ID_LAN><TERRORIST>" killed "Markyew<18><STEAM_ID_LAN><CT>" with "grenade"
+L 03/25/2015 - 19:46:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "4")
+L 03/25/2015 - 19:46:11: World triggered "Round_End"
+L 03/25/2015 - 19:46:16: "SexualHarrasmentPanda<16><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 19:46:22: World triggered "Round_Start"
+L 03/25/2015 - 19:46:47: "MagicalWizard<14><STEAM_ID_LAN><TERRORIST>" killed "Markyew<18><STEAM_ID_LAN><CT>" with "ak47"
+L 03/25/2015 - 19:46:49: "denes<13><STEAM_ID_LAN><TERRORIST>" killed "Player<15><STEAM_ID_LAN><CT>" with "awp"
+L 03/25/2015 - 19:46:50: "AllahAkbar<12><STEAM_ID_LAN><CT>" killed "MagicalWizard<14><STEAM_ID_LAN><TERRORIST>" with "deagle"
+L 03/25/2015 - 19:47:11: "denes<13><STEAM_ID_LAN><TERRORIST>" killed "AllahAkbar<12><STEAM_ID_LAN><CT>" with "awp"
+L 03/25/2015 - 19:47:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "5")
+L 03/25/2015 - 19:47:11: World triggered "Round_End"
+L 03/25/2015 - 19:47:11: "SexualHarrasmentPanda<16><STEAM_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/25/2015 - 19:47:16: "denes<13><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 19:47:22: World triggered "Round_Start"
+L 03/25/2015 - 19:48:23: "denes<13><STEAM_ID_LAN><TERRORIST>" killed "AllahAkbar<12><STEAM_ID_LAN><CT>" with "awp"
+L 03/25/2015 - 19:48:29: "Markyew<18><STEAM_ID_LAN><CT>" killed "denes<13><STEAM_ID_LAN><TERRORIST>" with "m4a1"
+L 03/25/2015 - 19:48:29: "denes<13><STEAM_ID_LAN><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/25/2015 - 19:48:45: "SexualHarrasmentPanda<16><STEAM_ID_LAN><TERRORIST>" killed "Player<15><STEAM_ID_LAN><CT>" with "ak47"
+L 03/25/2015 - 19:49:08: "Markyew<18><STEAM_ID_LAN><CT>" killed "MagicalWizard<14><STEAM_ID_LAN><TERRORIST>" with "m4a1"
+L 03/25/2015 - 19:49:14: "Markyew<18><STEAM_ID_LAN><CT>" killed "SexualHarrasmentPanda<16><STEAM_ID_LAN><TERRORIST>" with "usp"
+L 03/25/2015 - 19:49:14: Team "CT" triggered "CTs_Win" (CT "1") (T "5")
+L 03/25/2015 - 19:49:14: World triggered "Round_End"
+L 03/25/2015 - 19:49:19: "MagicalWizard<14><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 19:49:25: World triggered "Round_Start"
+L 03/25/2015 - 19:50:16: "MagicalWizard<14><STEAM_ID_LAN><TERRORIST>" killed "Markyew<18><STEAM_ID_LAN><CT>" with "ak47"
+L 03/25/2015 - 19:50:26: "SexualHarrasmentPanda<16><STEAM_ID_LAN><TERRORIST>" killed "AllahAkbar<12><STEAM_ID_LAN><CT>" with "scout"
+L 03/25/2015 - 19:50:34: "SexualHarrasmentPanda<16><STEAM_ID_LAN><TERRORIST>" killed "Player<15><STEAM_ID_LAN><CT>" with "grenade"
+L 03/25/2015 - 19:50:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "6")
+L 03/25/2015 - 19:50:34: World triggered "Round_End"
+L 03/25/2015 - 19:50:39: "SexualHarrasmentPanda<16><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 19:50:45: World triggered "Round_Start"
+L 03/25/2015 - 19:50:51: "Markyew<18><STEAM_ID_LAN><CT>" say_team "camp next to start"
+L 03/25/2015 - 19:51:13: "denes<13><STEAM_ID_LAN><TERRORIST>" killed "Player<15><STEAM_ID_LAN><CT>" with "awp"
+L 03/25/2015 - 19:51:18: "SexualHarrasmentPanda<16><STEAM_ID_LAN><TERRORIST>" killed "AllahAkbar<12><STEAM_ID_LAN><CT>" with "scout"
+L 03/25/2015 - 19:51:22: "MagicalWizard<14><STEAM_ID_LAN><TERRORIST>" killed "Markyew<18><STEAM_ID_LAN><CT>" with "ak47"
+L 03/25/2015 - 19:51:22: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "7")
+L 03/25/2015 - 19:51:22: World triggered "Round_End"
+L 03/25/2015 - 19:51:27: "denes<13><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 19:51:29: "denes<13><STEAM_ID_LAN><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/25/2015 - 19:51:33: World triggered "Round_Start"
+L 03/25/2015 - 19:51:34: "denes<13><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 03/25/2015 - 19:52:21: "denes<13><STEAM_ID_LAN><TERRORIST>" killed "AllahAkbar<12><STEAM_ID_LAN><CT>" with "awp"
+L 03/25/2015 - 19:52:39: "MagicalWizard<14><STEAM_ID_LAN><TERRORIST>" killed "Markyew<18><STEAM_ID_LAN><CT>" with "ak47"
+L 03/25/2015 - 19:52:47: "denes<13><STEAM_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/25/2015 - 19:53:31: "Player<15><STEAM_ID_LAN><CT>" killed "denes<13><STEAM_ID_LAN><TERRORIST>" with "fiveseven"
+L 03/25/2015 - 19:53:32: Team "TERRORIST" triggered "Target_Bombed" (CT "1") (T "8")
+L 03/25/2015 - 19:53:32: World triggered "Round_End"
+L 03/25/2015 - 19:53:35: "MagicalWizard<14><STEAM_ID_LAN><TERRORIST>" killed "Player<15><STEAM_ID_LAN><CT>" with "ak47"
+L 03/25/2015 - 19:53:37: "MagicalWizard<14><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 19:53:43: World triggered "Round_Start"
+L 03/25/2015 - 19:54:29: "SexualHarrasmentPanda<16><STEAM_ID_LAN><TERRORIST>" killed "Markyew<18><STEAM_ID_LAN><CT>" with "ak47"
+L 03/25/2015 - 19:54:29: "MagicalWizard<14><STEAM_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/25/2015 - 19:55:05: "denes<13><STEAM_ID_LAN><TERRORIST>" killed "AllahAkbar<12><STEAM_ID_LAN><CT>" with "awp"
+L 03/25/2015 - 19:55:14: Team "TERRORIST" triggered "Target_Bombed" (CT "1") (T "9")
+L 03/25/2015 - 19:55:14: World triggered "Round_End"
+L 03/25/2015 - 19:55:19: "SexualHarrasmentPanda<16><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 19:55:25: World triggered "Round_Start"
+L 03/25/2015 - 19:56:15: "SexualHarrasmentPanda<16><STEAM_ID_LAN><TERRORIST>" killed "Player<15><STEAM_ID_LAN><CT>" with "ak47"
+L 03/25/2015 - 19:56:34: "AllahAkbar<12><STEAM_ID_LAN><CT>" killed "SexualHarrasmentPanda<16><STEAM_ID_LAN><TERRORIST>" with "awp"
+L 03/25/2015 - 19:56:34: "SexualHarrasmentPanda<16><STEAM_ID_LAN><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/25/2015 - 19:56:49: "denes<13><STEAM_ID_LAN><TERRORIST>" killed "AllahAkbar<12><STEAM_ID_LAN><CT>" with "awp"
+L 03/25/2015 - 19:56:55: "Markyew<18><STEAM_ID_LAN><CT>" killed "MagicalWizard<14><STEAM_ID_LAN><TERRORIST>" with "awp"
+L 03/25/2015 - 19:57:27: "Markyew<18><STEAM_ID_LAN><CT>" killed "denes<13><STEAM_ID_LAN><TERRORIST>" with "usp"
+L 03/25/2015 - 19:57:27: Team "CT" triggered "CTs_Win" (CT "2") (T "9")
+L 03/25/2015 - 19:57:27: World triggered "Round_End"
+L 03/25/2015 - 19:57:32: "denes<13><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 19:57:38: World triggered "Round_Start"
+L 03/25/2015 - 19:58:31: "denes<13><STEAM_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/25/2015 - 19:58:36: "denes<13><STEAM_ID_LAN><TERRORIST>" killed "Player<15><STEAM_ID_LAN><CT>" with "awp"
+L 03/25/2015 - 19:58:38: "Markyew<18><STEAM_ID_LAN><CT>" killed "MagicalWizard<14><STEAM_ID_LAN><TERRORIST>" with "awp"
+L 03/25/2015 - 19:58:47: Team "CT" scored "2" with "3" players
+L 03/25/2015 - 19:58:47: Team "TERRORIST" scored "9" with "3" players
+L 03/25/2015 - 19:58:57: Log file closed

@@ -1,0 +1,27 @@
+L 03/25/2015 - 20:41:14: Log file started (file "logs/L0325025.log") (game "czero") (version "48/1.0.0.3/Stdio/6153")
+L 03/25/2015 - 20:41:15: "AllahAkbar<19><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 20:41:18: "WizardMagic<23><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 20:41:18: "MagicalWizard<22><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 20:41:18: "denes<20><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 20:41:19: "Markyew<21><STEAM_ID_LAN><>" entered the game
+L 03/25/2015 - 20:41:22: World triggered "Round_Start"
+L 03/25/2015 - 20:41:23: "WizardMagic<23><STEAM_ID_LAN><>" joined team "TERRORIST"
+L 03/25/2015 - 20:41:25: "WizardMagic<23><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 20:41:30: "denes<20><STEAM_ID_LAN><>" joined team "CT"
+L 03/25/2015 - 20:41:31: World triggered "Game_Commencing"
+L 03/25/2015 - 20:41:31: World triggered "Game_Commencing" (CT "0") (T "0")
+L 03/25/2015 - 20:41:31: World triggered "Round_End"
+L 03/25/2015 - 20:41:34: "WizardMagic<23><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 03/25/2015 - 20:41:35: "AllahAkbar<19><STEAM_ID_LAN><>" joined team "SPECTATOR"
+L 03/25/2015 - 20:41:39: "Markyew<21><STEAM_ID_LAN><>" joined team "CT"
+L 03/25/2015 - 20:41:40: World triggered "Round_Start"
+L 03/25/2015 - 20:41:48: "AllahAkbar<-1><><SPECTATOR>" disconnected
+L 03/25/2015 - 20:41:48: "denes<-1><><CT>" disconnected
+L 03/25/2015 - 20:41:48: "Markyew<-1><><CT>" disconnected
+L 03/25/2015 - 20:41:48: "MagicalWizard<-1><><>" disconnected
+L 03/25/2015 - 20:41:48: "WizardMagic<-1><><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/25/2015 - 20:41:48: "WizardMagic<-1><><TERRORIST>" disconnected
+L 03/25/2015 - 20:41:48: World triggered "Round_Draw" (CT "0") (T "0")
+L 03/25/2015 - 20:41:48: World triggered "Round_End"
+L 03/25/2015 - 20:41:48: Server shutdown
+L 03/25/2015 - 20:41:48: Log file closed
